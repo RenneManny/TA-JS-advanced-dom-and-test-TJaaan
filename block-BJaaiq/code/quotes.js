@@ -2896,3 +2896,4 @@ let quotes = [
     quoteAuthor: 'Byron Pulsifer',
   },
 ];
+export default quotes;
